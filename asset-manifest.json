@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/peak-performance-prototype/static/css/main.7279a7b2.css",
+    "main.js": "/peak-performance-prototype/static/js/main.f92a9c30.js",
+    "index.html": "/peak-performance-prototype/index.html",
+    "main.7279a7b2.css.map": "/peak-performance-prototype/static/css/main.7279a7b2.css.map",
+    "main.f92a9c30.js.map": "/peak-performance-prototype/static/js/main.f92a9c30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7279a7b2.css",
+    "static/js/main.f92a9c30.js"
+  ]
+}
